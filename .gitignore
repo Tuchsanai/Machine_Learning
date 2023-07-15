@@ -1,6 +1,6 @@
 *.pptx
 /Data Analytics 2
-
+solution/
 
 
 # Created by https://www.toptal.com/developers/gitignore/api/jupyternotebooks,python,macos
