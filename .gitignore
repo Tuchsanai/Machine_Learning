@@ -1,6 +1,7 @@
 *.pptx
 /Data Analytics 2
 /backup
+*/backup/*
 solution/
 hackathon/
 */PandasAI-Tutorials-main
