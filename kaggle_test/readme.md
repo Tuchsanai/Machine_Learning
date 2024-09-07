@@ -1,4 +1,6 @@
-Here's a complete `README.md` file in Thai with a detailed explanation of the competition rules and 10 example calculations:
+
+### https://www.kaggle.com/t/e2bc27a9647f43a7997126a6da3c7a9f
+
 
 ```markdown
 # การแข่งขันคำนวณบวกและลบเลขสองหลัก
