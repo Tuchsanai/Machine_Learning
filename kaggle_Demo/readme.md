@@ -1,6 +1,8 @@
 
 ### https://www.kaggle.com/t/e2bc27a9647f43a7997126a6da3c7a9f
 
+https://www.kaggle.com/t/e2bc27a9647f43a7997126a6da3c7a9f
+
 
 ```markdown
 # การแข่งขันคำนวณบวกและลบเลขสองหลัก
