@@ -1,17 +1,28 @@
+# 💰 OpenAI Pricing Page Viewer
 
+This repository provides quick access to official OpenAI API pricing information and related tools.
 
-# Priceing 
+---
 
-https://platform.openai.com/docs/pricing
+## 📄 OpenAI Pricing Documentation
 
-https://openai.com/api/pricing/
+You can view the latest OpenAI pricing details using the following links:
 
-# create keys   
+- 👉 [OpenAI Platform Pricing](https://platform.openai.com/docs/pricing)
+- 👉 [OpenAI API Pricing Overview](https://openai.com/api/pricing/)
 
-https://platform.openai.com/api-keys
+---
 
+## 🔑 Create OpenAI API Keys
 
+To use OpenAI services, you need to generate an API key:
 
-# typhoon :  
+- 🔐 [Generate your API Key here](https://platform.openai.com/api-keys)
 
-https://opentyphoon.ai/
+---
+
+## 🌪️ Typhoon (OpenTyphoon)
+
+OpenTyphoon is an alternative API gateway for OpenAI-compatible models:
+
+- 🌐 [Visit OpenTyphoon](https://opentyphoon.ai/)
