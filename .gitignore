@@ -1,4 +1,5 @@
 *.pptx
+/agents-main
 /Data Analytics 2
 /backup
 **/backup/
